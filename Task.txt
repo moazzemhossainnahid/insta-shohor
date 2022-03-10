@@ -1,0 +1,20 @@
+===================
+Main
+===================
+
+Task-1. Fix Love React. (Done)
+Task-2. Show User Image in Image Top. (Done)
+Task-3. Fix Text in Description. (Done)
+Task-4. Fix Comment User and Comment Text. (done)
+Task-5. Fix Report Section and Reported images.
+Task-6. Fix Love React all Images.
+
+
+===================
+Bonus
+===================
+
+Task-1. Minimum 6 Commit.
+Task-2. How Does JavaScript Work ?.
+Task-3. What Does JavaScript Even Loop Do ?.
+Task-4. Difference with Local Storage and Session Storage.
